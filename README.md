@@ -1,5 +1,5 @@
-# SITCH Sensor Feed
-## Processed: 2018-02-03 06:24:01
+# SITCH Sensor Feed For Canada
+## Processed: 2018-03-28
 Derived from:
 * The OpenCellID DB http://opencellid.org
   * Newest record: 2018-02-02T04:29:37
@@ -10,3 +10,5 @@ Derived from:
   * ARFCN DB
 * Twilio's API: https://twilio.com
   * CGI to provider correlation
+* Innovation, Science and Economic Development Canada: http://sms-sgs.ic.gc.ca/eic/site/sms-sgs-prod.nsf/eng/h_00010.html
+  
